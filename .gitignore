@@ -1,0 +1,14 @@
+*.pyc
+*.pyx
+/__pycache__/
+/data/
+/old/
+/proc/
+/results/
+/resources/cntk/modelEdit_retrain_allLayers.cntk
+/resources/cntk/ResNet_34.*
+/resources/cntk/ResNet_50.*
+/tmp/
+*.jpg
+*.png
+*.whl
